@@ -31,8 +31,7 @@
                 android:layout_toLeftOf="@+id/btnGo"
                 android:layout_toStartOf="@+id/btnGo"
                 android:hint="@string/hint"
-                android:maxLines="1"
-                android:gravity="center"/>
+                android:maxLines="1"/>
         <Button
                 android:id="@+id/btnGo"
                 android:layout_width="50dp"
